@@ -1,1 +1,2 @@
-Hello Artifactory and Sonar
+HELLO FROM AMOGH.
+AMOGH LOVES APPLE. <3
